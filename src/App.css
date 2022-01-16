@@ -1,0 +1,19 @@
+main {
+  min-height: 80vh;
+}
+
+.container h1{
+  text-align: center;
+  color: white;
+  background-color: #4cb2e1;
+}
+
+.logo{
+  text-align: center;
+  padding: 10px;
+  background-color: #4cb2e1;
+}
+
+.logo img{
+  height: 80px;
+}
